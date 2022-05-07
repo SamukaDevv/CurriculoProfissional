@@ -1,0 +1,52 @@
+
+
+
+
+    body{
+        font-family:  Arial, Helvestica, sang-serif;
+        position:relative;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        justify-items:center;
+        margin-top:50px;
+    }
+    table{
+        width:1000px height 1000px;				
+        height: 1000px;
+        border-collapse:collapse;
+    }
+    tD,tr{
+        width:800px height: 200px;
+        border: 0px solid black;
+        padding:3px;
+
+    }
+    th{
+
+       background-color:#87CEEB;
+    }
+    
+    style{
+        background:#00BFFF;
+        color:white;
+        td img src:"SSMK.jpg";
+        border-radius:9px;
+    }			
+    img{
+        position:relative;
+    }
+    .container{
+        display:inline-flex;
+        position:relative;
+        background: rgb(227, 226, 237);
+    }
+    .under{
+        text-decoration:none;
+        display:flex;
+    }
+    table a{
+        text-decoration:none;
+        
+    }
+
